@@ -13,10 +13,11 @@
 
     <Button
         android:id="@+id/button_add"
-        android:layout_width="@dimen/button_height"
+        android:layout_width="160dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_weight="1"
+        android:background="@drawable/button"
         android:text="@string/button_add_text" />
 
 </LinearLayout>
