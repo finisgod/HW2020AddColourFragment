@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW</string>
+    <string name="text">Sample text</string>
+    <string name="button_add_text">Add item</string>
+</resources>

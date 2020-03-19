@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="high_text_size">100sp</dimen>
+    <dimen name="standard_text_size">46sp</dimen>
+    <dimen name="min_item_height">56dp</dimen>
+    <dimen name="min_item_width">56dp</dimen>
+    <dimen name="button_height">300dp</dimen>
+</resources>
